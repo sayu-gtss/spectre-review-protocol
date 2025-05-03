@@ -59,9 +59,18 @@ From each included study, the following data were extracted:
 
 ## Synthesis Plan
 Narrative synthesis grouped by:
-- Spectre variant (e.g., Variant 1, Variant 2, Retbleed)
+- Spectre variant
 - Affected software layers (browser vs. kernel)
-- Tools and mitigations
+  - Web Browser
+  - *Variant 1*
+  - *Variant 4*
+  - OS Kernel
+  - *Variant 2*
+  - *Spectre BHB*
+  - *Spectre RSB*
+  - *Spectre SWAPGS*
+  - *Retbleed*
+- History, Technology, Tools and Mitigations
 - Gaps in research
 
 ## Risk of Bias Assessment
