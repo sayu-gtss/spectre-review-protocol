@@ -57,6 +57,6 @@ This project is for academic use only. Content may be reused with attribution.
 ## 📫 Contact
 
 Maintained by:  
-**[Your Name]**  
+**S S Dewapriya**  
 Sri Lanka Institute of Information Technology  
-Email: *[your-email@example.com]*  
+Email: *sayusahas@gmail.com*  
