@@ -17,8 +17,8 @@ This study explores how Spectre-based speculative execution vulnerabilities affe
 | File | Description |
 |------|-------------|
 | `protocol.md` | Full review protocol (objectives, inclusion criteria, search strategy, synthesis methods) |
-| `PRISMA_checklist_filled.docx` | Filled PRISMA 2020 Checklist (coming soon) |
-| `flowchart.png` | PRISMA flow diagram showing the study selection process (optional) |
+| `PRISMA_checklist_filled` | Filled PRISMA 2020 Checklist |
+| `Completed_prisma_flowchart` | PRISMA flow diagram showing the study selection process |
 
 ---
 
