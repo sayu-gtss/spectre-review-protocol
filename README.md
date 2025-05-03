@@ -36,14 +36,14 @@ This study explores how Spectre-based speculative execution vulnerabilities affe
 - IEEE Xplore  
 - Google Scholar  
 - CISA advisories  
-- Technical blogs (e.g., Project Zero, Indusface)  
+- Technical blogs 
 
 ---
 
 ## 📅 Review Timeline
 
 - **Protocol Created:** May 2025  
-- **Review Completion (Expected):** [Insert your submission deadline or estimate]
+- **Review Completion (Expected):** May 05, 2025
 
 ---
 
